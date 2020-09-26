@@ -1,4 +1,3 @@
 #!/bin/bash
-cd pyvoice
-sudo docker-compose down
+cd /home/ubuntu/www/project/pyvoice
 sudo docker-compose up --build
