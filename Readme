@@ -1,0 +1,2 @@
+Full stack Django web application Login register which is able to generate 
+invoices for the customer's business. Data is saved with ElephantSQL.
