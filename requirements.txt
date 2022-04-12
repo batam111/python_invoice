@@ -28,7 +28,7 @@ djangorestframework==3.11.0
 djangorestframework-jwt==1.11.0
 docutils==0.15.2
 dominate==2.5.1
-easyocr==1.1.7
+easyocr==1.4.2
 EasyProcess==0.3
 entrypoint2==0.2.1
 entrypoints==0.3
